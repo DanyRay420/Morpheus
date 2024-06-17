@@ -3,3 +3,4 @@ numpy==1.22.4
 onnxruntime==1.13.1
 scipy==1.9.1
 torch==2.0.1+cu118
+sympy>=1.12 # not directly required, pinned by Snyk to avoid a vulnerability
